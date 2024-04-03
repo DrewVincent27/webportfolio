@@ -1,3 +1,25 @@
+#navbar {
+    background-color: #343a40
+}
+.bgyellow {
+    background-color: #ffcc00;
+}
+.bgxenia{
+    background-color: #343a40;
+}
+.bgsky {
+    background-color: #5bc0de;
+}
+
+.pute {
+    color: white;
+}
+
+.itim {
+    color: black;
+}
+
+
 /* Nav CSS Start */
 #landingb{
     font-family: "Dm Serif Display", serif;
