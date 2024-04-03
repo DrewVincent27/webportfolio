@@ -1,0 +1,194 @@
+/* Nav CSS Start */
+#landingb{
+    font-family: "Dm Serif Display", serif;
+
+}
+
+#landingb2{
+    font-family: "Dm Serif Display", serif;
+}
+
+#landingb3{
+    font-family: "Dm Serif Display", serif;
+}
+
+#landingb4{
+    font-family: "Dm Serif Display", serif;
+}
+/* Projects CSS start */
+
+#text-project {
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: #5bc0de;
+}
+#projects {
+    background-color: rgb(50, 48, 48);
+}
+#project1h5 {
+    font-family: "Dm Serif Display", serif;
+
+}
+#projectimg-h6 {
+    font-family: "Dancing Script", serif;
+}
+
+#h5frontend {
+    font-family: "Dm Serif Display", serif;
+}
+#project2img-h6 {
+    font-family: "Dancing Script", sans-serif;
+}
+#h5webdesign {
+    font-family: "Dm Serif Display", serif;
+}
+#project3img-h6 {
+    font-family: "Dancing Script", sans-serif;
+}
+#link1 {
+    font-family: "Dancing Script", sans-serif;
+    font-size: 40px;
+}
+#link2 {
+    font-family: "Dancing Script", sans-serif;
+    font-size: 40px;
+}
+#link3 {
+    font-family: "Dancing Script", sans-serif;
+    font-size: 40px;
+}
+/* Landing CSS start */
+#landing{
+
+
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.59),
+        rgba(0, 0, 0, 0.59)
+        
+    
+    ),
+     url(./images/finallanding.jpg);
+     background-repeat: no-repeat;
+     background-size: auto;
+     height: 816px;
+     width: 1518px;
+    
+
+}
+
+#banner-text {
+    font-family: "Dancing Script", cursive;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: yellow;
+}
+
+#banner {
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: aqua;
+}
+/* Landing CSS End */
+
+#nav-text{
+    font-family: "Dm Serif Display", serif;
+    color: rgb(255, 255, 255) !important;
+}
+
+#landinglink{
+    width: 50px;
+    height: 33px;
+    border: 3px solid white ;
+    
+}
+
+#landinglink2{
+    width: 50px;
+    height: 33px;
+    border: 3px solid white ;
+}
+
+#landinglink3{
+    width: 50px;
+    height: 33px;
+    border: 3px solid white ;
+}
+
+#landinglink4{
+    width: 50px;
+    height: 33px;
+    border: 3px solid white ;
+}
+
+
+/* Background-bg css start */
+.background {
+	min-height: 20rem;
+	background-color: gray;
+	background-image: url(https://c4.wallpaperflare.com/wallpaper/43/1003/707/anime-your-name-kimi-no-na-wa-mitsuha-miyamizu-wallpaper-preview.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+}
+
+.bg-title {
+	color: white;
+	text-align: center;
+	font-size: 5em;
+	margin: 0;
+	line-height: 35rem;
+}
+
+.container-bg {
+	background-color: rgba(0, 0, 0, 0.5);
+	min-height: 100vh;
+}
+
+
+/* Contact me CSS Start */
+#contact-form {
+	background: #ffcc00;
+}
+#Contact-me {
+    background-color: rgb(50, 48, 48);
+}
+#contact-p {
+    font-family: "Dancing Script", cursive;
+    font-size: 35px;
+}
+#contact-h4 {
+    font-size: 50px;
+}
+#contact-maps {
+    background: #0275d8;
+}
+#maps-h4 {
+    font-size: 50px;
+}
+/* Core tools CSS */
+#tools {
+    background-color: rgb(50, 48, 48);
+}
+#text-tools {
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    font-weight: 600px;
+    line-height: 72px;
+    color: yellow;
+}
+
+/* Footer CSS Start */
+#footer {
+    background: rgb(50, 48, 48);;
+}
+#footer-div {
+    font-family: "Dm Serif Display", serif;
+    color: white;
+}
